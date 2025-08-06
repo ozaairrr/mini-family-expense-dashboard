@@ -2,7 +2,7 @@
 
 ## **📊 Project Overview**
 
-This project demonstrates a **fully-automated, real-time family expense dashboard**. The core focus is on the clarity of **dashboard insights**—not on manual entry or spreadsheet maintenance.
+This project demonstrates a **fully-automated, family expense dashboard**. The core focus is on the clarity of **dashboard insights**—not on manual entry or spreadsheet maintenance.
 
 - **Why?**  
   My older brother disliked updating Excel daily, so I built him an easy web interface to log expense data simply (using AI for smarter UX)—but **the main innovation is the dashboard analysis and automation**, not the website itself.
