@@ -1,5 +1,4 @@
-# **Family Expense Tracker Dashboard**
-** A Mini Project
+# **Family Expense Tracker Dashboard(Mini Project)**
 ## **🎯 The Problem**
 
 My older brother was frustrated with tracking family expenses in Excel—he found it tedious, time-consuming, and not user-friendly. He wanted a simple way to log daily expenses and immediately see **where the money was actually going** through clear visual insights.
